@@ -5,7 +5,7 @@ This repo is created for eestec event.
 
   Berkan Hoca's branch name is **berkanDev**
 
-  Reşat and Yasir's branch name is **jsDev**
+  Reşat and Yasir's branch name is **jsDev** 
    
   Semih and İpek's branch name is **workshopDev**
   
