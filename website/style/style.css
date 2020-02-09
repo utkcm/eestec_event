@@ -238,6 +238,18 @@ margin-top: 50px;
     margin-top: 10px;
 }
 
+.read-more{
+    color:#515769;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+    margin-top:10px;
+    display: inline-block;
+}
+.read-more:hover{
+    color:#17bed2;
+}
+
 #contact{
     color:#515769;
     float: left;
