@@ -11,7 +11,9 @@ This repo is created for eestec event.
   
   # What will be committed?
   
-  - Everyone should share his/her own topics list which will be covered in the training.
+    * Everyone should share his/her own topics list which will be covered in the training.
+    * Everyone should share his/her classroom activities if it is possible.
+  
   
   # Tips for creating topic lists
   
