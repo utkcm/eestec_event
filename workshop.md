@@ -13,7 +13,7 @@
       * line-height,
       * display:block,
       * list-style
-  * text-decoration
+      * text-decoration
  5.  Fixed menu with css (https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_menu) 
  6.  HTML5 download attribute (https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_a_download)
  7.  CSS3 smooth Scrolling (https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_smooth_scroll)
