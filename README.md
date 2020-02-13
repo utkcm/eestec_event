@@ -1,3 +1,5 @@
+https://semihozden.github.io/eestec_event/website/
+
 # IEEE EESTEC EVENT
 This repo is created for eestec event. 
   
