@@ -1,5 +1,11 @@
 https://semihozden.github.io/eestec_event/website/
 
+
+https://utkcm.github.io/blog/Project/
+
+
+
+
 # IEEE EESTEC EVENT
 This repo is created for eestec event. 
   
